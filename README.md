@@ -1,4 +1,4 @@
-# GenAI Workshop: Local AI Experiments
+# GenAI MLX Playground: Local AI Experiments
 
 An experimental collection of privacy-focused local AI utilities for audio transcription, vision analysis, and LLM reasoning. This project runs entirely offline on your Apple Silicon (M-series) Mac using MLX Whisper and Ollama.
 
@@ -29,7 +29,7 @@ An experimental collection of privacy-focused local AI utilities for audio trans
 1. **Clone & Enter**:
    ```bash
    git clone <repository-url>
-   cd genai-workshop
+    cd genai-mlx-playground
    ```
 
 2. **Setup Environment**:
@@ -125,7 +125,7 @@ print(f"Analysis: {description}")
 
 ### Project Structure
 ```text
-genai-workshop/
+genai-mlx-playground/
 ├── cli/                 # Command-line interface entry points
 ├── src/
 │   ├── audio/           # MLX Whisper integration & audio processing
