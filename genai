@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Entry point script for genai-workshop CLI."""
+"""Entry point script for genai-mlx-playground CLI."""
 
 import sys
 from pathlib import Path

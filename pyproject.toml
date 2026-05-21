@@ -1,5 +1,5 @@
 [project]
-name = "genai-workshop"
+name = "genai-mlx-playground"
 version = "0.1.0"
 description = "Local offline AI utilities using MLX Whisper and Ollama"
 readme = "README.md"
